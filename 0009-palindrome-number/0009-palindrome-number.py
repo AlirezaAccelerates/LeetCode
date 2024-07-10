@@ -4,6 +4,7 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
+        """
         if str(x) == str(x)[::-1]:
             return True
         else: 
@@ -19,4 +20,3 @@ class Solution(object):
             reverse = reverse * 10 + reminder
             x //= 10
         return original == reverse
-    """
