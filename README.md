@@ -6,6 +6,7 @@ LeetCode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AlirezaAccelerates/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/AlirezaAccelerates/LeetCode/tree/master/0066-plus-one) |
 ## Linked List
 |  |
 | ------- |
@@ -22,4 +23,8 @@ LeetCode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AlirezaAccelerates/LeetCode/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/AlirezaAccelerates/LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
