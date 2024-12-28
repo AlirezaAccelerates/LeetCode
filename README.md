@@ -19,6 +19,7 @@ LeetCode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AlirezaAccelerates/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AlirezaAccelerates/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -32,4 +33,9 @@ LeetCode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AlirezaAccelerates/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AlirezaAccelerates/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AlirezaAccelerates/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
